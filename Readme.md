@@ -41,7 +41,7 @@ Handle the [DiagramDataBindingBehaviorBase.CustomLayoutItems](https://docs.devex
 * [WPF Diagram - Use the DiagramDataBindingBehavior to Generate a Diagram from a Collection](https://github.com/DevExpress-Examples/wpf-diagram-use-diagramdatabindingbehavior-to-generate-diagram-from-collection)
 * [WPF Diagram Control - Generate Diagrams with Grouped Items](https://github.com/DevExpress-Examples/wpf-generate-diagram-with-grouped-items)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-diagram-bind-item-positions-to-source-objects&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-diagram-bind-item-positions-to-source-objects&~~~was_helpful=no)
 
